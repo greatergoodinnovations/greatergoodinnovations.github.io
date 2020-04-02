@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: "Greater Good Innovations"
+description: "Serving up innovations for the greater good"
+show_downloads: true # displays download button on the .io page
